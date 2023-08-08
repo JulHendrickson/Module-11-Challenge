@@ -21,7 +21,7 @@ The forecasting_net_prophet Jupyter notebook contains the code for data preparat
 
 ## Findings
 By isolating the search trend data for the month of May 2020 I found there was an increase in search traffic that month compared to the medain monthly search traffic.
-![Search Trends for May 2020](Search Trends for May 2020.png)
+[![Search Trends for May 2020](Search Trends for May 2020.png)](https://github.com/JulHendrickson/Module-11-Challenge/blob/main/Images/Search%20Trends%20for%20May%202020.png)
 
 Visualizing the hour of the day and day of week search traffic as a heatmap showed search trends are higher in the middle of the week, days 2, 3 and 4. Always during the first two and last two index hours.
 ![Search Trends on a Heatmap](Heatmap.png)
